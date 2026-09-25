@@ -1,1 +1,1 @@
-Installers for TAC-LOG by Precision Systems.
+Installers for TAC-LOG by TAC Systems.
